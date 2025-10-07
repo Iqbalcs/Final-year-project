@@ -75,9 +75,9 @@ npm start
 npm run dev
 
 ## 📦 Folder Structure
-Final-year-project/
-│
-├── backend/
+Final-year-project/<br>
+│<br>
+├── backend/<br>
 │   ├── config/
 │   ├── controllers/
 │   ├── models/
