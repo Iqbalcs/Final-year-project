@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🩺 Prescripto – Doctor Appointment Booking System
 
 Prescripto is a modern **MERN stack** (MongoDB, Express, React, Node.js) web application that allows patients to easily book appointments with doctors. It offers an intuitive admin panel, doctor dashboard, and user interface for smooth healthcare management.
@@ -101,3 +102,6 @@ Final-year-project/
 Iqbal Hussain
 💻 MERN Stack Developer
 🌐 GitHub Profile
+=======
+
+>>>>>>> 869c6b2a119cba343266bcc31aa61b5861dae77c
