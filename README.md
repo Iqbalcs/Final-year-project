@@ -39,7 +39,7 @@ Prescripto is a modern **MERN stack** (MongoDB, Express, React, Node.js) web app
 
 | Admin Panel | Dashboard | Doctor Panel |
 |--------------|------------|---------------|
-| ![Admin Panel](./screenshots/admin.jpeg) | ![Dashboard](./screenshots/dashboard.jpeg) | ![Doctor Panel](./screenshots/Doctor.jpeg) |
+| ![Admin Panel](./screenshot/admin.jpeg) | ![Dashboard](./screenshot/dashboard.jpeg) | ![Doctor Panel](./screenshot/Doctor.jpeg) |
 
 > 💡 Place your screenshots inside a folder named **`screenshots`** in your project root.
 
